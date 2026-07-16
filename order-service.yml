@@ -1,5 +1,5 @@
 discount:
-  percentage: 50
+  percentage: 100
 
 database:
   timeout: 3000
